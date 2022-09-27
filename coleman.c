@@ -1,3 +1,7 @@
+// Alexander Torjyan 28
+// Design and implement a program, readability, that computes the Coleman-Liau index of text.
+// CS50 Week 2 Problem Set 2
+
 int main(void) // int argc, string argv[]
 {
     // get user to analyze
