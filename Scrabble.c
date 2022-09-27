@@ -1,6 +1,8 @@
-// Aryan Chaurasia
-// CS50 Lab 2 Scrabble
+// Alexander Torjyan 28 Per 1
+// This assignment can be completed in groups of up to 3 students. However, everyone must submit their own commented code.
 // Jan 3, 2021
+
+
 #include <cs50.h>
 #include <stdio.h>
 #include <ctype.h>
